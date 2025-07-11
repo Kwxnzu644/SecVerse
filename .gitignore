@@ -1,0 +1,66 @@
+# === PYTHON ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+*.log
+
+# Jupyter Notebooks (if you add later)
+*.ipynb_checkpoints/
+
+# === C++ ===
+*.o
+*.out
+*.exe
+*.bin
+*.a
+*.so
+*.obj
+*.dll
+
+# Build and debug files
+build/
+cmake-build-*/
+Makefile
+*.dSYM/
+
+# === BASH ===
+*.swp
+*.bak
+
+# === OS/EDITOR FILES ===
+.DS_Store
+Thumbs.db
+desktop.ini
+*.~lock.*
+*~
+
+# === IDE/Editor ===
+.vscode/
+.idea/
+*.code-workspace
+
+# === ARCHIVES ===
+*.tar
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# === TEST FILES & DUMPS ===
+*.pcap
+*.log
+*.dump
+*.tmp
+*.pid
+
+# === SECVERSIONING ===
+# Avoid pushing sample config or sensitive files
+secrets.txt
+config.json
+*.key
+*.crt
+*.pem
