@@ -1,6 +1,6 @@
 # 🛡️ SecVerse Security Tools
 
-Welcome to the official toolkit of **SecVerse** — a solo cybersecurity brand focused on automation, offensive security, and cloud-based protection.
+Welcome to the official toolkit of **SecVerse**  focused on automation, offensive security, and cloud-based protection.
 
 All tools are written and tested on **Linux (Arch/Kali)** and built using **Python, Bash, and C++**.
 
